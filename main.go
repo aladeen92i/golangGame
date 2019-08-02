@@ -233,7 +233,6 @@ func gameMenu() {
 		case 4:
 			break
 		case 5:
-			writePlayerMapToJSON()
 		case 6:
 			// readplayer from json soon
 		}

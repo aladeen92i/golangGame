@@ -1,0 +1,12 @@
+{
+ "Name": "bob",
+ "Password": "bob",
+ "HashPassword": "",
+ "Character": {
+  "Name": "bob",
+  "LifeTotal": 100,
+  "Power": 15,
+  "Mana": 0,
+  "Experience": 45
+ }
+}
